@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'chris-paas-todo-2026'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA1C691A69CC4677A341038091C5031A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_598D4A145E064656A637D39437534BC3 }}
